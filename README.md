@@ -16,7 +16,7 @@ Follow these directions closely to switch over to this repository.
 Example of what your folders should look something like:
 
 ```
-~/projects/BEWD_SF_13_homework/KishaRichardson-kisha/hw_1/whatever_it_is.rb
+~/projects/BEWD_SF_13_homework/KishaRichardson-kisha/hw_1/assignment_topic.rb
 ```
 
 Instructions
